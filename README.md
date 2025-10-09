@@ -8,7 +8,7 @@
     <i>Ensures reliable network communication (eventual consistency) between services.</i>
     <br />
     <br />
-    <a href="https://transactionalbox.com/"><strong>Documentation</strong></a>
+    <a href="https://adimiko.github.io/TransactionalBox/"><strong>Documentation</strong></a>
     |
     <a href="https://www.nuget.org/packages?q=TransactionalBox"><strong>Packages</strong></a>
   </p>
